@@ -103,10 +103,10 @@ please consider to cite our paper if you use the code or data in your research p
 
 ```bibtex
 @inproceedings{eafl-arxiv,
-  title={EAFL: Towards Energy-Aware Federated Learning on Battery-Powered Edge Devices},
+  title={Towards Energy-Aware Federated Learning via Collaborative Computing Approach},
   author={Amna Arouj and Ahmed M. Abdelmoniem},
-  booktitle={arXiv:2208.04505},
-  year={2021}
+  booktitle={Computer Communications, Elsevier, 2024},
+  year={2024}
 }
 ```
 
